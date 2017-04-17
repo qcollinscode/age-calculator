@@ -1,0 +1,9 @@
+c:\users\mypc\documents\visual studio 2017\Projects\AgeCalculatorSolution\AgeCalculator\bin\Debug\AgeCalculator.exe.config
+c:\users\mypc\documents\visual studio 2017\Projects\AgeCalculatorSolution\AgeCalculator\bin\Debug\AgeCalculator.exe
+c:\users\mypc\documents\visual studio 2017\Projects\AgeCalculatorSolution\AgeCalculator\bin\Debug\AgeCalculator.pdb
+c:\users\mypc\documents\visual studio 2017\Projects\AgeCalculatorSolution\AgeCalculator\obj\Debug\AgeCalculator.csprojResolveAssemblyReference.cache
+c:\users\mypc\documents\visual studio 2017\Projects\AgeCalculatorSolution\AgeCalculator\obj\Debug\AgeCalculator.Properties.Resources.resources
+c:\users\mypc\documents\visual studio 2017\Projects\AgeCalculatorSolution\AgeCalculator\obj\Debug\AgeCalculator.csproj.GenerateResource.Cache
+c:\users\mypc\documents\visual studio 2017\Projects\AgeCalculatorSolution\AgeCalculator\obj\Debug\AgeCalculator.exe
+c:\users\mypc\documents\visual studio 2017\Projects\AgeCalculatorSolution\AgeCalculator\obj\Debug\AgeCalculator.pdb
+C:\Users\MyPC\Documents\Visual Studio 2017\Projects\AgeCalculatorSolution\AgeCalculator\obj\Debug\AgeCalculator.Age_Calculator.resources
